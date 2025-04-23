@@ -1,13 +1,16 @@
-# Our Works in 2024
-This repository summarizes the works by Mizuno Group in 2024.  
+# Research Overview 2024
+This repository provides an overview of the Mizuno Group’s research activities in 2024.  
 
 ## Content
 - [GLDADec](https://github.com/mizuno-group/GLDADec)  
     - [*GLDADec: marker-gene guided LDA modeling for bulk gene expression deconvolution* ](https://doi.org/10.1093/bib/bbae315)  
+    - Azuma I. Brief Bioinform. 2024  
 - [ChiralityMisunderstanding](https://github.com/mizuno-group/ChiralityMisunderstanding)  
     - [*Difficulty in chirality recognition for Transformer architectures learning chemical structures from string representations*](https://doi.org/10.1038/s41467-024-45102-8)  
+    - Yoshikai Y. Nat Commun. 2024  
 - [LiverDeconv](https://github.com/mizuno-group/LiverDeconv)  
     - [*Investigation of the usefulness of liver-specific deconvolution method toward legacy data utilization*](https://doi.org/10.1093/nargab/lqad111)  
+    - Azuma I. NAR Genom Bioinform. 2024  
 
 ## Member
 - [Shumpei Nemoto](https://github.com/Nemoto-S)  
@@ -24,7 +27,7 @@ This repository summarizes the works by Mizuno Group in 2024.
 
 ## Almuni
 - [Shotaro Maedera (2022)](https://github.com/ShotaroMaedera)  
-- [Katsuhisa Morita](https://github.com/KatsuhisaMorita)  
+- [Katsuhisa Morita (2023)](https://github.com/KatsuhisaMorita)  
 
 ## Contact
 ### Principal Investigator
